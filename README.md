@@ -1,5 +1,38 @@
-# Solutions Fibonacci
+# Sequência de Fibonacci
 Esta solução atende a uma demanda específica de uma disciplina.
+
+A **Sequência de Fibonacci** é uma sequência numérica que foi descoberta pelo matemático italiano **Leonardo Pisa**, mais conhecido como **Fibonacci**. Ela pode ser construída a partir de um problema envolvendo coelhos e apresenta propriedades fascinantes.
+
+## Definição
+
+A sequência começa com os números **0** e **1** e, a partir daí, cada elemento subsequente é a **soma dos dois anteriores**. Portanto, a sequência continua como:
+
+**0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...**
+
+## Propriedades e Aplicações
+
+- **Retângulo de Ouro**: A partir da sequência de Fibonacci, podemos construir o **Retângulo de Ouro**. Desenhando um arco dentro desse retângulo, obtemos a **Espiral de Fibonacci**.
+- **Natureza e Cultura**: A sequência de Fibonacci está presente na natureza, como nas folhas das árvores, pétalas de flores, frutos (como o abacaxi) e conchas espiraladas de caracóis.
+- **Constante Áurea**: O coeficiente entre um número e seu antecessor resulta na **constante com o valor aproximado de 1,618**. Essa constante é aplicada em análises financeiras, informática e até mesmo em aspectos estéticos e de design.
+- **Matemática e Computação**: A sequência contribui para a teoria dos números, estudos de sequências, algoritmos e ciência da computação.
+
+## Quem foi Leonardo Fibonacci?
+
+**Leonardo Pisa (1175-1240)**, também conhecido como **Leonardo Fibonacci**, foi um matemático italiano do século XIII. Ele deu a conhecer essa sequência em seu livro **"Liber Abaci"** (Livro do Ábaco), datado de 1202. Fibonacci viajou extensivamente pelo Mediterrâneo, estudou sistemas numéricos de várias culturas e contribuiu significativamente para o desenvolvimento da aritmética comercial.
+
+Referências:
+1. [Toda Matéria - Sequência de Fibonacci](https://www.todamateria.com.br/sequencia-de-fibonacci/)
+2. [Superinteressante - O que é a sequência de Fibonacci?](https://super.abril.com.br/mundo-estranho/o-que-e-a-sequencia-de-fibonacci/)
+
+---
+Sinta-se à vontade para adicionar este parágrafo ao seu **README.md** no GitHub e personalizá-lo conforme necessário. Se precisar de mais alguma ajuda, estou à disposição! 😊
+
+Origem: conversa com o Bing, 05/04/2024
+(1) Sequência de Fibonacci - Toda Matéria. https://www.todamateria.com.br/sequencia-de-fibonacci/.
+(2) Significado da Sequência de Fibonacci (O que é, Conceito e Definição .... https://www.significados.com.br/sequencia-de-fibonacci/.
+(3) O que é a sequência de Fibonacci? | Super - Superinteressante. https://super.abril.com.br/mundo-estranho/o-que-e-a-sequencia-de-fibonacci/.
+(4) Sequência de Fibonacci | Saber Matemática. https://sabermatematica.com.br/sequencia-de-fibonacci.html.
+(5) Sequência de Fibonacci – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci.
 
 ## 📄 Licença
 
