@@ -25,14 +25,6 @@ Referências:
 2. [Superinteressante - O que é a sequência de Fibonacci?](https://super.abril.com.br/mundo-estranho/o-que-e-a-sequencia-de-fibonacci/)
 
 ---
-Sinta-se à vontade para adicionar este parágrafo ao seu **README.md** no GitHub e personalizá-lo conforme necessário. Se precisar de mais alguma ajuda, estou à disposição! 😊
-
-Origem: conversa com o Bing, 05/04/2024
-(1) Sequência de Fibonacci - Toda Matéria. https://www.todamateria.com.br/sequencia-de-fibonacci/.
-(2) Significado da Sequência de Fibonacci (O que é, Conceito e Definição .... https://www.significados.com.br/sequencia-de-fibonacci/.
-(3) O que é a sequência de Fibonacci? | Super - Superinteressante. https://super.abril.com.br/mundo-estranho/o-que-e-a-sequencia-de-fibonacci/.
-(4) Sequência de Fibonacci | Saber Matemática. https://sabermatematica.com.br/sequencia-de-fibonacci.html.
-(5) Sequência de Fibonacci – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Sequ%C3%AAncia_de_Fibonacci.
 
 ## 📄 Licença
 
